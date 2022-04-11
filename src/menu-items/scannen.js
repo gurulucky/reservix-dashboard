@@ -5,7 +5,7 @@ import { IconBarcode } from '@tabler/icons';
 // ==============================|| SAMPLE PAGE & DOCUMENTATION MENU ITEMS ||============================== //
 
 const event = {
-    id: 'sample-docs-roadmap',
+    id: 'scannen',
     type: 'group',
     children: [
         {

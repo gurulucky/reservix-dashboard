@@ -5,7 +5,7 @@ import { IconClearAll } from '@tabler/icons';
 // ==============================|| SAMPLE PAGE & DOCUMENTATION MENU ITEMS ||============================== //
 
 const event = {
-    id: 'sample-docs-roadmap',
+    id: 'clearing',
     type: 'group',
     children: [
         {

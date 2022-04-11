@@ -3,7 +3,7 @@ import { IconTool, IconSmartHome, IconNews } from '@tabler/icons';
 // ==============================|| UTILITIES MENU ITEMS ||============================== //
 
 const utilities = {
-    id: 'utilities',
+    id: 'pages',
     type: 'group',
     children: [
         

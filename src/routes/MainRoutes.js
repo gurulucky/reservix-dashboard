@@ -24,6 +24,10 @@ const MainRoutes = {
     element: <MainLayout />,
     children: [
         {
+            path: '/',
+            element: <EventPage />
+        },
+        {
             path: '/eventlist',
             element: <EventPage />
         },
